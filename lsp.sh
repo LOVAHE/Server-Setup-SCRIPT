@@ -26,7 +26,7 @@ show_menu() {
     echo ""
     echo ""
     echo "#########################"
-    echo "Author: LOVAHE"
+    echo "Author: Baidu0com"
     echo "Telegram channel: https://t.me/VVairport"
     echo "Last Update on 2024, 23 Jul"
     echo "Github https://github.com/LOVAHE/Server-Setup-SCRIPT/"
